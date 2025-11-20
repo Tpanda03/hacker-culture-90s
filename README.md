@@ -101,7 +101,7 @@ and technological fear.
 </div>
 
 <footer>
-    <p>Created by Fernanda Lima for COM 380 • 1990s Web Revival • Hosted on GitHub Pages</p>
+    <p>Created by Fernanda Lima for COM 380 • 1990s Hacker Culture • Hosted on GitHub Pages</p>
 </footer>
 
 </body>
