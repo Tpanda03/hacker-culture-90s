@@ -271,6 +271,21 @@
         <p>By tracing this continuity, we see that hacker culture was never just a phase of the 1990s—it was a foundational philosophy that continues to influence how people engage with digital systems. The legacy of the early hacker ethos lives on in every push for transparency, openness, and user empowerment.</p>
     </section>
 
+<section id="sources">
+        <h2>Sources & Works Cited</h2>
+        <ul class="sources-list">
+            <li><strong>Bernal, P. A. (2021).</strong> <em>The Cultural Construction of Cybersecurity</em>.</li>
+            <li><strong>Coleman, G. (2012).</strong> <em>Coding Freedom: The Ethics and Aesthetics of Hacking</em>. Princeton University Press.</li>
+            <li><strong>Platt, C. (1994).</strong> "Hackers: Threat or Menace?" <em>WIRED</em>.</li>
+            <li><strong>Raymond, E. S. (1998).</strong> <em>The Cathedral and the Bazaar</em>. O'Reilly Media.</li>
+            <li><strong>Softley, I. (Director). (1995).</strong> <em>Hackers</em> [Film]. United Artists.</li>
+            <li><strong>The Mentor. (1986).</strong> "The Conscience of a Hacker" (The Hacker Manifesto). <em>Phrack</em>, 1(7).</li>
+            <li><strong>Thomas, D. (2002).</strong> <em>Hacker Culture</em>. University of Minnesota Press.</li>
+            <li><strong>Turkle, S. (1995).</strong> <em>Life on the Screen: Identity in the Age of the Internet</em>. Simon & Schuster.</li>
+            <li><strong>Winkler, I. (Director). (1995).</strong> <em>The Net</em> [Film]. Columbia Pictures.</li>
+        </ul>
+    </section>
+
     <footer>
         <p>Final Project: COM380 | Fall 2025</p>
     </footer>
